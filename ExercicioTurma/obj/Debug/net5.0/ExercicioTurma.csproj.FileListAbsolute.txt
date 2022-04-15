@@ -1,0 +1,16 @@
+C:\temp\ws-vs2022\CastGroup\ExercicioTurma\ExercicioTurma\bin\Debug\net5.0\ExercicioTurma.exe
+C:\temp\ws-vs2022\CastGroup\ExercicioTurma\ExercicioTurma\bin\Debug\net5.0\ExercicioTurma.deps.json
+C:\temp\ws-vs2022\CastGroup\ExercicioTurma\ExercicioTurma\bin\Debug\net5.0\ExercicioTurma.runtimeconfig.json
+C:\temp\ws-vs2022\CastGroup\ExercicioTurma\ExercicioTurma\bin\Debug\net5.0\ExercicioTurma.runtimeconfig.dev.json
+C:\temp\ws-vs2022\CastGroup\ExercicioTurma\ExercicioTurma\bin\Debug\net5.0\ExercicioTurma.dll
+C:\temp\ws-vs2022\CastGroup\ExercicioTurma\ExercicioTurma\bin\Debug\net5.0\ExercicioTurma.pdb
+C:\temp\ws-vs2022\CastGroup\ExercicioTurma\ExercicioTurma\obj\Debug\net5.0\ExercicioTurma.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\CastGroup\ExercicioTurma\ExercicioTurma\obj\Debug\net5.0\ExercicioTurma.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\CastGroup\ExercicioTurma\ExercicioTurma\obj\Debug\net5.0\ExercicioTurma.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\CastGroup\ExercicioTurma\ExercicioTurma\obj\Debug\net5.0\ExercicioTurma.AssemblyInfo.cs
+C:\temp\ws-vs2022\CastGroup\ExercicioTurma\ExercicioTurma\obj\Debug\net5.0\ExercicioTurma.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\CastGroup\ExercicioTurma\ExercicioTurma\obj\Debug\net5.0\ExercicioTurma.dll
+C:\temp\ws-vs2022\CastGroup\ExercicioTurma\ExercicioTurma\obj\Debug\net5.0\refint\ExercicioTurma.dll
+C:\temp\ws-vs2022\CastGroup\ExercicioTurma\ExercicioTurma\obj\Debug\net5.0\ExercicioTurma.pdb
+C:\temp\ws-vs2022\CastGroup\ExercicioTurma\ExercicioTurma\obj\Debug\net5.0\ExercicioTurma.genruntimeconfig.cache
+C:\temp\ws-vs2022\CastGroup\ExercicioTurma\ExercicioTurma\obj\Debug\net5.0\ref\ExercicioTurma.dll
